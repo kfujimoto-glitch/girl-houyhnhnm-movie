@@ -36,3 +36,22 @@ microCMS 埋め込み用HTML:
   poster="https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/houyhnhnm-poster.jpg"
   autoplay muted loop playsinline controls style="width:100%;height:auto"></video>
 ```
+
+---
+
+# Rhino inc. 15s
+
+株式会社ライノ 企業ブランドムービー（15秒・1920×1080・60fps）
+
+- 動画: `rhino-15s.mp4`
+- サムネイル: `rhino-poster.jpg`
+- 再生ページ: https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/rhino.html
+- 動画URL: https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/rhino-15s.mp4
+
+microCMS 埋め込み用HTML:
+
+```html
+<video src="https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/rhino-15s.mp4"
+  poster="https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/rhino-poster.jpg"
+  autoplay muted loop playsinline controls style="width:100%;height:auto"></video>
+```
