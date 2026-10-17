@@ -17,3 +17,22 @@ microCMS 埋め込み用HTML:
   poster="https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/poster.jpg"
   autoplay muted loop playsinline controls style="width:100%;height:auto"></video>
 ```
+
+---
+
+# HOUYHNHNM 15s
+
+フイナム ブランドムービー（15秒・1920×1080・60fps）
+
+- 動画: `houyhnhnm-15s.mp4`
+- サムネイル: `houyhnhnm-poster.jpg`
+- 再生ページ: https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/houyhnhnm.html
+- 動画URL: https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/houyhnhnm-15s.mp4
+
+microCMS 埋め込み用HTML:
+
+```html
+<video src="https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/houyhnhnm-15s.mp4"
+  poster="https://kfujimoto-glitch.github.io/girl-houyhnhnm-movie/houyhnhnm-poster.jpg"
+  autoplay muted loop playsinline controls style="width:100%;height:auto"></video>
+```
